@@ -1,0 +1,8 @@
+{
+  "1.1.0.0": {
+    "ko": "• 창을 선택해 녹화할 때 화면 전체가 아니라 선택한 창 크기에 맞춰 정확하게 녹화됩니다.\n\n• 녹화·녹음에 마이크 소리를 포함할지 선택할 수 있는 옵션이 추가되었습니다.\n\n• 발표 도구(리모콘)에 마이크 켬/끔 버튼이 추가되었습니다 (단축키 F7).\n\n• 녹화·캡처·녹음 시작 버튼에 단축키가 표시됩니다 (예: \"녹화 시작 (F9)\").\n\n• 저장 위치 표시란을 클릭하면 저장 폴더를 바로 바꿀 수 있습니다.\n\n• 두 번째 모니터에서 녹화할 때 발표 도구가 해당 모니터에 뜨도록 수정했습니다.",
+    "en": "• Window-capture recordings now match the exact size of the selected window instead of the whole screen.\n\n• Added an option to include microphone audio in both video and audio recordings.\n\n• Added a mic on/off button to the presentation toolbar shown during recording (F7 shortcut).\n\n• Record/screenshot/audio start buttons now show their keyboard shortcut (e.g. \"Start recording (F9)\").\n\n• You can now click the save-location field to change the save folder directly.\n\n• Fixed the presentation toolbar appearing on the wrong monitor when recording a secondary display.",
+    "ja": "• ウィンドウを選んで録画する際、画面全体ではなく選択したウィンドウのサイズどおりに正確に録画されるようになりました。\n\n• 録画・録音にマイク音声を含めるかどうかを選べるオプションを追加しました。\n\n• 録画中のプレゼンテーションツールにマイクのオン/オフボタンを追加しました（ショートカット F7）。\n\n• 録画・キャプチャ・録音の開始ボタンにショートカットキーが表示されるようになりました（例:「録画開始 (F9)」）。\n\n• 保存先の表示欄をクリックすると、保存フォルダーをすぐに変更できるようになりました。\n\n• 2台目のモニターで録画する際、プレゼンテーションツールがそのモニターに表示されるよう修正しました。",
+    "zh-Hans": "• 按窗口录制时，现在会精确匹配所选窗口的实际大小，而不是整个屏幕。\n\n• 新增选项，可在录制视频和录音时加入麦克风声音。\n\n• 在录制时显示的演示工具栏中新增了麦克风开关按钮（快捷键 F7）。\n\n• 开始录制/截图/录音按钮现在会显示对应的快捷键（例如\"开始录制 (F9)\"）。\n\n• 现在点击保存位置显示框即可直接更改保存文件夹。\n\n• 修复了在副屏录制时演示工具栏显示在错误显示器上的问题。"
+  }
+}
